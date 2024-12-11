@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac04fc0d553aaad4a8c97fea8a3fe17e
+timeCreated: 1521820260
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Port-Arthur '
+  fontNames:
+  - 'Port-Arthur '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
